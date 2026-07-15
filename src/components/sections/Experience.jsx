@@ -14,7 +14,7 @@ const experiences = [
       "Building scalable full stack web applications using React, Node.js, Express and MongoDB. Focused on clean UI, reusable components and responsive design.",
   },
   {
-    title: "ROBEX - Multi Vendor Marketplace",
+    title: "ROHAN - Multi Vendor Marketplace",
     company: "Flagship Project",
     duration: "Current Project",
     description:
