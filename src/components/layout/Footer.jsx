@@ -219,17 +219,26 @@ const Footer = () => {
                     rel="noreferrer"
                     aria-label={item.name}
                     className="
-                      rounded-xl
-                      border
-                      border-slate-800
-                      bg-slate-900
-                      p-4
-                      text-slate-300
-                      transition-all
-                      duration-300
-                      hover:-translate-y-1
-                      hover:border-emerald-500
-                      hover:text-emerald-400
+                    rounded-xl
+                    border
+                    border-slate-800
+                    bg-slate-900
+                    p-4
+                    text-slate-300
+                    transition-all
+                    duration-300
+                    cursor-pointer
+                   
+                    hover:-translate-y-1
+                    hover:border-emerald-500
+                    hover:text-emerald-400
+                    hover:shadow-[0_0_25px_rgba(16,185,129,0.2)]
+
+                    active:-translate-y-1
+                    active:border-emerald-500
+                    active:text-emerald-400
+                    active:shadow-[0_0_25px_rgba(16,185,129,0.2)]
+                    active:scale-[0.95]
                     "
                   >
                     <Icon size={22} />

@@ -6,16 +6,16 @@ const projects = [
     description:
       "A full-stack MERN multi-vendor marketplace with authentication, seller dashboard, product management and order management.",
     tech: ["React", "Node.js", "Express", "MongoDB"],
-    github: "https://github.com/rohanguptag9368-hub/Rohan-store",
-    live: "#",
+    github: "https://github.com/rohanguptag9368-hub/Rohan-store-frontend",
+    live: "https://rohan-store-frontend-433i.vercel.app/",
   },
   {
     title: "Portfolio Website",
     description:
       "A premium developer portfolio built with React and Tailwind CSS featuring a modern startup-inspired UI.",
     tech: ["React", "Tailwind CSS"],
-    github: "https://github.com/rohanguptag9368-hub/Netflix-Clone",
-    live: "#",
+    github: "https://github.com/rohanguptag9368-hub/Portfolio-Website-of-Rohan-Babu-Gupta-",
+    live: "https://portfolio-website-of-rohan-babu-gup.vercel.app/",
   },
   {
     title: "Netflix Clone",
