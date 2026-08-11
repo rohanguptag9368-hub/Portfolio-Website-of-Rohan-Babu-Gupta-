@@ -1,6 +1,22 @@
 import { motion } from "framer-motion";
 
 const projects = [
+   {
+    title: "ROHAN AI",
+    description:
+      "Rohan AI is an advanced AI-powered web application designed to simplify complex tasks and deliver smart, automated solutions instantly.",
+    tech: ["React", "Node.js", "Express", "MongoDB","API Integration"],
+    github: "https://github.com/rohanguptag9368-hub/Rohan-store-frontend",
+    live: "https://rohix-ai-git-main-rohanguptag9368-hubs-projects.vercel.app/",
+  },
+   {
+    title: "Dr Pillay clinic",
+    description:
+      "Dr. Pillay Clinic is an AI-powered medical web application featuring a seamless patient appointment booking system, an integrated clinic management dashboard, and automated assistant features .",
+    tech: ["React", "Node.js", "Express", "MongoDB","Typescript", "Tsx"],
+    github: "https://github.com/rohanguptag9368-hub/Rohan-store-frontend",
+    live: "https://dr-pillay-clinic-ye46.vercel.app/",
+  },
   {
     title: "ROHAN Marketplace",
     description:
