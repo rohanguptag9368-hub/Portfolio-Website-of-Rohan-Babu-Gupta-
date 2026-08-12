@@ -22,7 +22,7 @@ const projects = [
     description:
       "A full-stack MERN multi-vendor marketplace with authentication, seller dashboard, product management and order management.",
     tech: ["React", "Node.js", "Express", "MongoDB"],
-    github: "https://github.com/rohanguptag9368-hub/Rohan-store-frontend",
+    github: "https://github.com/rohanguptag9368-hub/Rohan-store-frontend-",
     live: "https://rohan-store-frontend-433i.vercel.app/",
   },
   {
