@@ -1,14 +1,7 @@
 import { motion } from "framer-motion";
 
 const projects = [
-   {
-    title: "ROHAN AI",
-    description:
-      "Rohan AI is an advanced AI-powered web application designed to simplify complex tasks and deliver smart, automated solutions instantly.",
-    tech: ["React", "Node.js", "Express", "MongoDB","API Integration"],
-    github: "https://github.com/rohanguptag9368-hub/Rohan-store-frontend",
-    live: "https://rohix-ai-git-main-rohanguptag9368-hubs-projects.vercel.app/",
-  },
+   
    {
     title: "Dr Pillay clinic",
     description:
@@ -32,6 +25,14 @@ const projects = [
     tech: ["React", "Tailwind CSS"],
     github: "https://github.com/rohanguptag9368-hub/Portfolio-Website-of-Rohan-Babu-Gupta-",
     live: "https://portfolio-website-of-rohan-babu-gup.vercel.app/",
+  },
+  {
+    title: "ROHAN AI",
+    description:
+      "Rohan AI is an advanced AI-powered web application designed to simplify complex tasks and deliver smart, automated solutions instantly.",
+    tech: ["React", "Node.js", "Express", "MongoDB","API Integration"],
+    github: "https://github.com/rohanguptag9368-hub/Rohan-store-frontend",
+    live: "https://rohix-ai-git-main-rohanguptag9368-hubs-projects.vercel.app/",
   },
   {
     title: "Netflix Clone",
